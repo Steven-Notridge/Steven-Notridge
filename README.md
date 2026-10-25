@@ -1,1 +1,5 @@
-I'm Steven, with years of technical cloud experience behind me, and I'm doing everything I can to enter the DevOps world as I've developed my own undying love for Linux and coding in general. It all started with a simple PowerShell script a few years ago, and sitting next to a DevOps engineer. Since then, I've been slowly building up some skills, but now I'm going full steam ahead.
+Hi.
+
+Commits on Private Repo's are likely personal Apps or Game Development.
+
+https://not-today.dev/
